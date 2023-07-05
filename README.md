@@ -1,3 +1,5 @@
+![image](https://github.com/purushottam121/HR_Report/assets/67274110/5837b547-fae6-4337-838a-b05f3c6c1de1)
+
 
 Data Used
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
