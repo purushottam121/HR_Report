@@ -1,0 +1,13 @@
+AGE_GROUP,gender,COUNT
+28-37,Male,2560
+38-47,Male,2532
+38-47,Female,2182
+48-57,Male,2007
+28-37,Female,2368
+48-57,Female,1900
+18-27,Male,1812
+18-27,Female,1640
+28-37,Non-Conforming,153
+48-57,Non-Conforming,110
+38-47,Non-Conforming,131
+18-27,Non-Conforming,87

@@ -1,0 +1,2 @@
+"round(avg(datediff(TERMDATE,HIRE_DATE)/365),2)"
+7.52
